@@ -80,6 +80,31 @@ sign in and the website will show for you the editors that the extension allow f
 
 ![OIP (5).jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1641143185858/8lZAuD9if.jpeg)
 
+8. PolaCode
+
+PolaCode is an extension that make A pretty Screenshot for code
+
+![usage.gif](https://github.com/octref/polacode/raw/master/demo/usage.gif)
+
+# Use Pola Code in windows 
+1. status bar
+
+Go to Status Bar in the top and hover (View) Tab and Select (Open view...) then click on it
+
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643292758674/YTL36wypU.png)
+
+Then Clear this:
+
+![Screenshot 2022-01-27 161334.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1643292833830/2D4uOfE5H.jpeg)
+
+Then write:
+```vs
+>polacode
+```
+then select the first one and there is A New tab in the right side called PolaCode 📸 Follow the instructions in this tab:
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643293001586/YcZ_-cPAz.png)
 
 Thanks for reading
 
@@ -88,4 +113,4 @@ Hey, my name is Mohamed Ehab and if you want to join us go to my links:
  [Twitter](https://twitter.com/Program39300266)<br>
  [Instagram](https://www.instagram.com/mohamedehab2463/)<br>
  [Hashnode](https://hashnode.com/@Programing123)<br>
-<a href="http://www.youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw">Youtube</a>
+<a href="http://www.youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw">Youtube</a>2.  
