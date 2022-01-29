@@ -106,5 +106,5 @@ Now if you want to host your site in github go and see this [video](https://www.
 ## 🌍 Find me at:
 [Twitter](https://twitter.com/Program39300266)
 [Instagram](https://www.instagram.com/mohamedehab2463/)
-[Tweet A thanks](https://twitter.com/intent/tweet?text=Thank%20you%20@Program39300266%20for%20writing%20this%20helpful%20article.%0A%0ALearn%20Git%20and%20GitHub%20%20%E2%80%93%20Version%20Control%20for%20Beginners%0A%0A)
+[Tweet A thanks](https://twitter.com/intent/tweet?text=Thank%20you%20@Program39300266%20for%20writing%20this%20helpful%20article.%0A%0ALearn%20Git%20and%20GitHub%20%20%E2%80%93%20Version%20Control%20for%20Beginners%0A%0Ahttps://programing-school.hashnode.dev/learn-git-and-github)
 [GitHub](https://github.com/Programing-School)
