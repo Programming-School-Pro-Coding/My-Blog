@@ -4,7 +4,7 @@
 
 If you want to make A Blog with Your self this article will help you to make a blog with a dashboard
 
-# Make Our Project and install our our tools and libraries 
+# Make Our Project and install our tools and libraries 
 
 ## Create Our Directory and make the project
 1. Create in your drive or desktop a folder for the project I named it ```hashnode-blog``` 
