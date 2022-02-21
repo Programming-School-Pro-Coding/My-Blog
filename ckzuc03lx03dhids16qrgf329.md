@@ -82,16 +82,4 @@ option three is ```loop``` it is a boolean value ```true or false``` true for lo
 option four is ```deleteSpeed``` it is a number value that set the speed of the delete word
 > The lower the number is Faster, the higher the speed is slower
 
-# Find Me In
-[Linkedin](https://www.linkedin.com/in/mohamed-ehab-164193208/)
-[Instagram](https://www.instagram.com/mohamedehab2463/)
-[Twitter](https://twitter.com/Program39300266)
-[Dribbble](https://dribbble.com/Programming-School)
-[My Portfolio](https://mohamed-ehab-portfolio.vercel.app/)
-[GitHub](https://github.com/Programing-School)
-[YouTube](https://www.youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw)
-[Mail Me](mailto:mohamed9919698@gmail.com)
-
-Don't forgot to follow me on Hashnode and GitHub 
-
-# Thank you for reading 📖 
+%%[socials]
