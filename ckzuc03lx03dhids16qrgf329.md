@@ -81,5 +81,3 @@ option three is ```loop``` it is a boolean value ```true or false``` true for lo
 ### Option Four
 option four is ```deleteSpeed``` it is a number value that set the speed of the delete word
 > The lower the number is Faster, the higher the speed is slower
-
-%%[socials]
