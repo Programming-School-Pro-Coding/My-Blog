@@ -54,6 +54,4 @@ Wait for minutes and see your site live
 
 If you want to any questions Go down an comment
 
-%%[youtube]
-
-# Thank you for reading 📖 
+%%[socials]
