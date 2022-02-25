@@ -1,4 +1,4 @@
-## 7 helpful Visual Studio code Extensions
+## 10 helpful Visual Studio code Extensions
 
 # Hello
 
