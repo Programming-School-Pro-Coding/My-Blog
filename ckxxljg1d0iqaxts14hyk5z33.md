@@ -80,11 +80,39 @@ sign in and the website will show for you the editors that the extension allow f
 
 ![OIP (5).jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1641143185858/8lZAuD9if.jpeg)
 
-8. PolaCode
+8. [PolaCode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
 PolaCode is an extension that make A pretty Screenshot for code
 
 ![usage.gif](https://github.com/octref/polacode/raw/master/demo/usage.gif)
+
+9. [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
+
+Vibrancy is an extension for make a transparent effect
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645821378741/ybxzyTsfS.png)
+
+10. [Better Comments]()
+
+C#, F#, C/C++, and JavaScript:
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645821777831/B3Alnp5MJ.png)
+
+Python:
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645821951982/RSq69Cpjx.png)
+
+Html/XAML:
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1645822143930/fj5VHBQGl.png)
+
+Multiline delimited comments (Works only in C#).:
+
+![ClassificationMultilineCS.png](https://github.com/omsharp/BetterComments/raw/master/screenshots/ClassificationMultilineCS.png)
+
+Single-line delimited comments (Works in C#, F#, C/C++, and JavaScript):
+
+![image.png](https://github.com/omsharp/BetterComments/raw/master/screenshots/ClassificationDelimited.png)
 
 # Use Pola Code in windows 
 1. status bar
