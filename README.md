@@ -2,4 +2,4 @@
 
 My Blog Posts
 
-[live site](https://programing-school.hashnode.dev/)
+[live site](https://programming-school.hashnode.dev/)
